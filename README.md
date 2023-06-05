@@ -14,7 +14,7 @@ Student Record Management System is a software solution for tracking and managin
 ##### Tools and Technologies used in the Project :-
 
 * Language - C++
-* IDE - VS Code
+* IDE - Dev C++
 
 ![image](https://github.com/11913117/Student-Record-Management-System/assets/63724915/1e44c0fb-515b-4a5a-8c81-b6a63665ab57)
 
