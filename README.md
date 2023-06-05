@@ -16,6 +16,9 @@ Student Record Management System is a software solution for tracking and managin
 * Language - C++
 * IDE - VS Code
 
+![image](https://github.com/11913117/Student-Record-Management-System/assets/63724915/1e44c0fb-515b-4a5a-8c81-b6a63665ab57)
+
+
 ## License
 
 Code released under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) 
